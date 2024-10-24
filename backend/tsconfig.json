@@ -29,6 +29,9 @@
     "types": [
       "@adonisjs/core",
       "@adonisjs/repl",
+      "@adonisjs/session",
+      "@adonisjs/view",
+      "@adonisjs/shield",
       "@japa/preset-adonis/build/adonis-typings"
     ]
   }
